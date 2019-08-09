@@ -460,10 +460,10 @@ organization
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
-.brand-name:nth-child(1){ opacity: .3; }
+/* .brand-name:nth-child(1){ opacity: .3; }
 .brand-name:nth-child(3){ opacity: .3; }
 .brand-name:nth-child(6){ opacity: .3; }
-.brand-name:nth-child(8){ opacity: .3; }
+.brand-name:nth-child(8){ opacity: .3; } */
 .organization .title h2 {
 	line-height: 64px;
 	color: #525960;
