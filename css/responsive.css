@@ -1,0 +1,309 @@
+@media screen and (max-width: 1199px) {
+	.banner-text h1 { font-size: 50px; }
+	.banner-text {
+		padding-left: 0 !important;
+		padding-top: 50px;
+	}
+	.banner { height: 800px; }
+	.hire-contact-area {
+		max-width: 975px;
+		padding: 30px 0;
+	}
+	.about {
+		margin-top: -60px;
+		padding-bottom: 50px;
+	}
+	.hex-container { margin-right: -55px; }
+	.img-oa img {
+		max-width: 332px;
+		display: block;
+		height: auto;
+	}
+	.img-oa img {
+		max-width: 285px;
+		display: block;
+		height: auto;
+	}
+	.bg-afex, .bg-cwg { margin-bottom: 20px; }
+	.bg-afex, .bg-ascsn, .bg-cwg, .bg-soa { height: 212px; }
+	.portfolio { padding: 100px 0; }
+	.brand-name { width: 46%; }
+	.organization-area {
+		display: table;
+		width: 100%;
+		max-width: 975px;
+		margin: 0 auto;
+	}
+	.organization { padding-top: 100px; }
+}
+@media screen and (max-width: 991px) {
+	.banner-text h1 {
+		font-size: 39px;
+		line-height: 65px;
+	}
+	.banner { height: 750px; }
+	.hire-contact-area {
+		max-width: 750px;
+		padding: 20px 0;
+	}
+	.banner-text p { line-height: 30px; }
+	.banner-text h2 {
+		font-size: 24px;
+		line-height: 33px;
+	}
+	.hire-btn-group {
+		display: table;
+		width: 320px;
+		float: none;
+		margin: 0 auto;
+	}
+	.abou-area-img { padding-top: 30px; }
+	.skill-text {
+		padding-top: 50px;
+		margin-bottom: 100px;
+	}
+	.list { margin-top: 0px; }
+	.hex-container {
+		display: table;
+		float: none; 
+		margin: 0 auto;
+	}
+	.skill-text { max-width: 100%; }
+	.portfolio-area-left { width: 100%; }
+	.img-oa {
+		max-height: 445px;
+		overflow: hidden;
+	}
+	.img-oa img {
+		max-width: 100%;
+		display: block;
+		height: auto;
+	}
+	.portfolio-area-right {
+		margin-top: 20px;
+		width: 100%;
+	}
+	.portfolio-area-right .portfolio-item {
+		width: 99%;
+		margin-left: 0; 
+		overflow: hidden;
+	}
+	.bg-cwg {
+		float: left;
+		width: 44%;
+	}
+	.bg-soa {
+		float: right;
+		width: 52%;
+	}
+	.portfolio-area { padding-left: 5px; }
+}
+@media screen and (max-width: 767px) {
+	#menu { display:none; }
+	.slicknav_menu {
+		display:block;
+	}
+	.header-area { padding: 0 15px; }
+	.slicknav_btn { padding: 0; }
+	.logo {
+		width: 100%;
+		max-width: 150px;
+	}
+	.hire-contact-area {
+		position: initial;
+		transform: none;
+	}
+	.banner-img figure { float: none; }
+	.banner-img { padding-right: 15px !important; }
+	.banner-text {
+		padding-left: 15px !important;
+		padding-right: 15px !important; 
+	}
+	.about { margin-top: 50px; }
+	.banner-text {
+		padding-top: 0;
+		padding-bottom: 20px
+	}
+	.about { margin-top: 300px; }
+	.abou-area-img {
+		max-width: 385px;
+		margin: 0 auto;
+	}
+	/*.banner-text h2 {
+		text-align: center;
+	}
+	.banner-text h1 {
+		text-align: center;
+	}
+	.banner-text p {
+		text-align: center;
+	}*/
+	.about { padding-bottom: 20px; }
+	.about-text { padding-top: 30px; }
+	.skill-text {
+		padding-left: 15px !important;
+		padding-right: 15px;
+	}
+	.portfolio-area {
+		max-width: 575px;
+		margin: 0 auto;
+	}
+	.portfolio-area-left .portfolio-item:nth-child(2) {
+		width: 50%;
+		margin-left: 15px;
+	}
+	.bg-soa {
+		width: 51.5%;
+		margin-right: 5px;
+	}
+	.bg-afex, .bg-ascsn, .bg-cwg, .bg-soa { height: 180px; }
+	.portfolio-area-left .portfolio-item:nth-child(1) { margin-right: 5px; }
+	.portfolio-area { padding-left: 15px; }
+	.brand-name { width: 96%; }
+	.footer-area { padding: 0 15px; }
+	.footer-area-info-left {
+		width: 100%;
+		float: left;
+	}
+	.footer-area-info-right {
+		width: 100%;
+		float: right;
+	}
+	.project-mind {
+		padding-top: 100px;
+		margin-bottom: -100px;
+	}
+	.brand-name { height: 100px; }
+	footer { padding-top: 300px; }
+	.footer-area-info { padding-bottom: 50px; }
+	.footer-area-social { padding: 30px 0 0 0; }
+	.footer-area-social ul li a {
+		display: inline-block;
+		width: 40px;
+		height: 40px;
+		background-size: contain;
+	}
+	.project-mind-area { padding: 0 15px; }
+	.about-text { padding-right: 15px; }
+	.organization-area { padding-right: 15px; }
+	.portfolio .title { padding: 0 15px; }
+}
+@media screen and (max-width: 639px) {
+	.header-area nav { width: 48%; }
+	.about { margin-top: 250px; }
+}
+@media screen and (max-width: 575px) {
+	.banner-text h2 { font-size: 24px; }
+	.banner-text h1 {
+		font-size: 31px;
+		line-height: 50px;
+	}
+	.about { margin-top: 50px; }
+	.fh5co-skill-img { display: none; }
+	.list ul li { font-size: 16px; }
+	.skill-text {
+		padding-top: 50px;
+		margin-bottom: 30px;
+	}
+	.list ul li { line-height: 40px; }
+	.portfolio-area {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.portfolio-area-left .portfolio-item:nth-child(1) {
+		width: 100%;
+		margin-right: 15px;
+		max-width: 332px;
+		margin: 0 auto;
+		display: table;
+		float: none;
+	}
+	.img-oa { max-height: 300px; }
+	.portfolio-area-left .portfolio-item:nth-child(2) {
+		width: 100%;
+		margin-left: 15px;
+		max-width: 332px;
+		margin: 20px auto 0 auto;
+		float: none;
+	}
+	.bg-cwg {
+		float: left;
+		width: 100%;
+		max-width: 332px;
+		margin: 0 auto 20px auto;
+		display: table;
+		float: none;
+	}
+	.portfolio-area-right .portfolio-item { width: 100%; }
+	.bg-soa {
+		width: 100%;
+		max-width: 332px;
+		float: none;
+		margin: 0 auto;
+	}
+	.banner-img {
+		padding-right: 15px !important;
+		display: none;
+	}
+	.banner { height: 500px; }
+	.organization { padding-top: 50px; }
+	.project-mind .title h2 {
+		font-size: 18px;
+		line-height: 39px;
+	}
+	.project-mind .title h3 {
+		line-height: 50px;
+	}
+	.project-mind {
+		padding-top: 50px;
+		margin-bottom: -150px;
+	}
+	.footer-area-social h2 {
+		margin-bottom: 15px;
+		font-size: 16px;
+	}
+	.footer-area-social ul li a {
+		width: 33px;
+		height: 33px;
+		background-size: contain;
+	}
+	.footer-area-social { padding: 10px 0 0 0; }
+	.footer-area-info { padding-bottom: 20px; }
+	.footer-area-social p { margin-bottom: 10px; }
+	.footer-area-social ul li { max-height: 35px; }
+	.footer-area-social h2 { margin-bottom: 10px; }
+	.project-mind .title h3 { font-size: 25px; }
+	.project-mind .title p {
+		line-height: 33px;
+	}
+	footer {padding-top: 250px; }
+	.brand-name {height: 65px; }
+	.organization .title p {line-height: 33px; }
+	.organization .title h2 {line-height: 40px; }
+	.hire-text {
+		padding: 0 30px;
+		display: none;
+	}
+	.hire-me-btn {margin: 0 0; }
+	.list ul {width: 100%; }
+	.skill { padding-bottom: 30px; }
+	.skill-text h2 {
+		font-size: 1.15em;
+		line-height: 50px;
+	}
+	.skill-text {
+		padding-top: 30px;
+		margin-bottom: 30px;
+	}
+	.portfolio .title p { line-height: 33px; }
+	.portfolio { padding: 70px 0; }
+	.organization .title h2 { font-size: 16px; }
+	.organization .title { padding: 0 15px; }
+}
+@media screen and (max-width: 375px) {
+	.hire-me-btn {
+		max-width: 100%;
+		margin-bottom: 10px;
+	}
+	.contact-me-btn { max-width: 100%; }
+}
